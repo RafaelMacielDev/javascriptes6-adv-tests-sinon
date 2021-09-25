@@ -1,0 +1,17 @@
+{
+  "name": "javascript-es6-adv-testes",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <img alt=\"\" title=\"JavaScript_ES6_Designer_Patterns\" src=\".github/demostration_aplication_0.png\" width=\"320px\" />   <br>   JavaScript ES6 - Advanced ES6 1/2 </h1>",
+  "main": "mocha-chai-sinon.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2",
+    "sinon": "^11.1.2"
+  }
+}
